@@ -10,7 +10,7 @@ Pod::Spec.new do |s|
 
 s.name        = "ESCDisplayCalculator"
 
-s.version      = "1.0.2"
+s.version      = "1.0.3"
 
 s.summary      = "A Caluator, it can add number to another num"
 
@@ -24,7 +24,7 @@ s.platform    = :ios, "7.0"
 
 s.source_files  = "ESCDisplayCalculator", "ESCDisplayCalculator/**/*.{h,m}"
 
-s.source      = { :git => "https://github.com/quanzhizu/ESCDisplayCalculator.git", :tag => "1.0.2" }
+s.source      = { :git => "https://github.com/quanzhizu/ESCDisplayCalculator.git", :tag => "1.0.3" }
 
 s.requires_arc = true
 
