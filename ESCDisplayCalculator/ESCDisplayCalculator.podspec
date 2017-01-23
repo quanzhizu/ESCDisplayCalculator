@@ -16,7 +16,7 @@ s.summary      = "A Caluator, it can add number to another num"
 
 s.homepage    = "http://www.jianshu.com"
 
-s.license      = "MIT"
+s.license      = { :type => "MIT", :file => "LICENSE" }
 
 s.author            = { "quanzhizu" => "quanzhizu2005@126.com" }
 
